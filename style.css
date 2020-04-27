@@ -1,0 +1,77 @@
+/* Styling the tag element*/
+body{
+  background-color: #ff926b;
+  margin: 0 auto;
+  text-align: center;
+  color:#eaffd0;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #4d3e3e;
+  display:inline-block;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+}
+h2{
+  color: #fce38a;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #eaffd0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*Defining the selector class*/
+.top-cntainer{
+  position:relative;
+  margin-top: 100px;
+}
+.middle-cntainer{
+  background-color: #95e1d3;
+
+
+}
+.bottom-cntainer{
+  background-color: #95e1d3;
+
+}
+.top-cloud{
+  position:absolute;
+  left:800px;
+  top:0;
+  display:inline;
+}
+.bottom-cloud{
+  position:absolute;
+  display:inline;
+  left:400px;
+  top:200px;
+}
+.mountain{
+  display:inline;
+  position:absolute;
+}
+.profile{
+  display:inline-block;
+}
+.profile-image{
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+}
+.skill-row{
+  border-radius:100%
+}
+.skill-image{
+  width:100px;
+  height:100px;
+}
+.skills-table{
+  display: inline-block;
+  }
+  .computer-image{
+    width:100px;
+    height:100px;
+    border-radius: 50%
+  }
+/* Defining the Class selector*/
