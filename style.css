@@ -1,39 +1,86 @@
 /* Styling the tag element*/
 body{
-  background-color: #ff926b;
-  margin: 0 auto;
-  text-align: center;
-  color:#eaffd0;
+  color:#42240c;
   font-family: 'Merriweather', serif;
 }
 h1{
   color: #4d3e3e;
   display:inline-block;
-  font-family: 'Sacramento', cursive;
+  font-family:"Ubuntu";
   font-size: 90px;
 }
 h2{
-  color: #fce38a;
+  color: #42240c;
   font-family: 'Montserrat', sans-serif;
+  font-size:1.5rem;
 }
 h3{
-  color: #eaffd0;
-  font-family: 'Montserrat', sans-serif;
+  color: #42240c;
+  font-family: 'Ubuntu';
+  font-size:1rem;
+}
+p{
+  font-size: 1rem;
 }
 
+hr{
+  border-top: 10px dotted  #ff926b;
+  width:10%;
+  text-align: center;
+  margin:10px auto;
+}
+.ulPro{
+  color: #4d3e3e;
+}
+.exp-summary{
+  color: #4d3e3e;
+  text-align: left;
+}
 /*Defining the selector class*/
 .top-cntainer{
   position:relative;
   margin-top: 100px;
+  background-color: #ff926b;
+  padding:7% 15%;
 }
-.middle-cntainer{
-  background-color: #95e1d3;
-
-
+p.designation{
+  margin-left:100px;
+  font-family:"Ubuntu";
+  font-size:1.5rem;
+  margin: 0 auto;
+  text-align: center;
+}
+.middle-container{
+  background-color: #ffffff;
+  padding:7% 15%;
+}
+.techExp-summary{
+  margin: 10px;
+}
+.query{
+  font-weight: bold;
+  //border:1px solid #4d3e3e;
+}
+.answer{
+  //border:1px solid #4d3e3e;
+}
+.certification{
+  margin: 10px;
+}
+#keyProjects{
+  background-color: #ff926b;
+  text-align: center;
+}
+.card{
+  position:relative;
+  margin: 20px auto;
+}
+.carousel-inner{
+  text-align: center;
+  padding:7% 15%;
 }
 .bottom-cntainer{
-  background-color: #95e1d3;
-
+  background-color: #ff926b;
 }
 .top-cloud{
   position:absolute;
@@ -44,7 +91,7 @@ h3{
 .bottom-cloud{
   position:absolute;
   display:inline;
-  left:200px;
+  left:400px;
   bottom:300px;
 }
 .mountain{
@@ -58,6 +105,7 @@ h3{
   width:100px;
   height:100px;
   border-radius: 50%;
+  margin: 20px;
 }
 .skill-row{
   border-radius:100%
@@ -73,5 +121,16 @@ h3{
     width:100px;
     height:100px;
     border-radius: 50%
+  }
+  .skills{
+    background-color: #ff926b;
+  }
+  .footer{
+    background-color: #ffffff;
+    padding: 7% 15%;
+    text-align: center;
+  }
+  .social-icon{
+    margin:10px 20px;
   }
 /* Defining the Class selector*/
