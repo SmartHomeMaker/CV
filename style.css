@@ -25,13 +25,6 @@ ul{
   padding:30px;
 }
 
-hr{
-  border-top: 15px dotted  #f9f7f7;
-  width:10%;
-  text-align: center;
-  margin:10px auto;
-  opacity: 0.2;
-}
 .ulPro{
   color: #3f72af;
 }
@@ -66,7 +59,6 @@ p.designation{
 
 #keyProjects{
   background-color: white;
-  text-align: center;
 }
 #keyProjects h2{
   font-size: 2.5rem;
@@ -76,13 +68,16 @@ p.designation{
   margin: 20px auto;
   color:#112d4e;
 }
+.card p{
+  font-weight: 500;
+  font-size: 1.2rem;
+}
 
 .cardheader-h2{
   color:white;
 }
 
 .carousel-inner{
-  text-align: center;
   padding:7% 15%;
 }
 
