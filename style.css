@@ -35,7 +35,7 @@ ul{
 .top-cntainer{
   position:relative;
   margin-top: 100px;
-  background-color:  #3f72af;
+  background-color:  #ab1212;
   padding:10px;
 }
 p.designation{
@@ -82,11 +82,11 @@ p.designation{
 }
 
 .carousel-control-next-icon {
-  background-color: #3f72af;
+  background-color: #ab1212;
 }
 
 .carousel-control-prev-icon{
-  background-color: #3f72af;
+  background-color: #ab1212;
 }
 
 
@@ -111,12 +111,12 @@ p.designation{
   }
 .card-background{
   color:white;
-  background-color: #3f72af;
+  background-color: #ab1212;
 }
 
 .footer{
   text-align: center;
-  background-color: #3f72af;
+  background-color: #ab1212;
   margin:30px auto;
   padding:5%;
 
