@@ -1,7 +1,7 @@
 /* Styling the tag element*/
 body{
   color: white;
-  background-color: #2D1E1E;
+  background-color: #2b4d77;
   font-family: 'Cutive Mono', monospace;
   padding: 5% 7%;
   margin:0;
@@ -18,7 +18,7 @@ h1{
 h2{
   font-size:1.5rem;
   text-align: left;
-  background-color: #2D1E1E;
+  background-color:#2b4d77;
   padding:5px 5px;
 }
 
