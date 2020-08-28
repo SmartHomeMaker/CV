@@ -1,10 +1,10 @@
 /* Styling the tag element*/
 body{
   color: #f9f7f7;
-  padding:0 5%;
-  margin: 0;
-  background-color: white;
+  background-color: #393e46;
   font-family: 'Cutive Mono', monospace;
+  padding: 0;
+  margin:0;
 }
 h1,h2,h3,h4,h5,h6{
   color: #f9f7f7;
@@ -15,10 +15,8 @@ h1{
 
 h2{
   font-size:1.5rem;
-  margin: 10px auto;
   text-align: left;
-  padding:5px;
-  background-color: #D4AF37;
+  background-color: #393e46;
 }
 
 ul{
@@ -35,7 +33,7 @@ ul{
 .top-cntainer{
   position:relative;
   margin-top: 100px;
-  background-color:#D4AF37;
+  background-color:  #3f72af;
   padding:10px;
 }
 p.designation{
@@ -82,11 +80,11 @@ p.designation{
 }
 
 .carousel-control-next-icon {
-  background-color: #D4AF37;
+  background-color: #3f72af;
 }
 
 .carousel-control-prev-icon{
-  background-color: #D4AF37;
+  background-color: #3f72af;
 }
 
 
@@ -111,12 +109,12 @@ p.designation{
   }
 .card-background{
   color:white;
-  background-color: #D4AF37;
+  background-color: #3f72af;
 }
 
 .footer{
   text-align: center;
-  background-color: #D4AF37;
+  background-color: #3f72af;
   margin:30px auto;
   padding:5%;
 
