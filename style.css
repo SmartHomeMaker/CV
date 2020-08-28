@@ -1,14 +1,14 @@
 /* Styling the tag element*/
 body{
-  color: #f9f7f7;
-  background-color: #393e46;
+  color: white;
+  background-color: #2D1E1E;
   font-family: 'Cutive Mono', monospace;
   padding: 5% 7%;
   margin:0;
   font-size:1.2rem;
 }
 h1,h2,h3,h4,h5,h6{
-  color: #f9f7f7;
+  color: white;
 }
 h1{
   font-size: 3.75rem;
@@ -18,12 +18,8 @@ h1{
 h2{
   font-size:1.5rem;
   text-align: left;
-  background-color: #393e46;
+  background-color: #2D1E1E;
   padding:5px 5px;
-}
-
-ul{
-  padding:30px;
 }
 
 .ulPro{
