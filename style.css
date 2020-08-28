@@ -18,7 +18,7 @@ h2{
   margin: 10px auto;
   text-align: left;
   padding:5px;
-  background-color: #393e46;
+  background-color: #D4AF37;
 }
 
 ul{
@@ -35,7 +35,7 @@ ul{
 .top-cntainer{
   position:relative;
   margin-top: 100px;
-  background-color:  #ab1212;
+  background-color:#D4AF37;
   padding:10px;
 }
 p.designation{
@@ -82,11 +82,11 @@ p.designation{
 }
 
 .carousel-control-next-icon {
-  background-color: #ab1212;
+  background-color: #D4AF37;
 }
 
 .carousel-control-prev-icon{
-  background-color: #ab1212;
+  background-color: #D4AF37;
 }
 
 
@@ -111,12 +111,12 @@ p.designation{
   }
 .card-background{
   color:white;
-  background-color: #ab1212;
+  background-color: #D4AF37;
 }
 
 .footer{
   text-align: center;
-  background-color: #ab1212;
+  background-color: #D4AF37;
   margin:30px auto;
   padding:5%;
 
